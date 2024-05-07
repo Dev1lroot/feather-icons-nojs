@@ -1,0 +1,870 @@
+
+.fe{
+    filter: invert(100%);
+    width: 32px;
+    height: 32px;
+    background-position: center;
+    background-size: contain;
+    display: inline-block;
+}
+.fe-activity {
+    background-image: url(dist/icons/activity.svg);
+}
+.fe-airplay {
+    background-image: url(dist/icons/airplay.svg);
+}
+.fe-alert-circle {
+    background-image: url(dist/icons/alert-circle.svg);
+}
+.fe-alert-octagon {
+    background-image: url(dist/icons/alert-octagon.svg);
+}
+.fe-alert-triangle {
+    background-image: url(dist/icons/alert-triangle.svg);
+}
+.fe-align-center {
+    background-image: url(dist/icons/align-center.svg);
+}
+.fe-align-justify {
+    background-image: url(dist/icons/align-justify.svg);
+}
+.fe-align-left {
+    background-image: url(dist/icons/align-left.svg);
+}
+.fe-align-right {
+    background-image: url(dist/icons/align-right.svg);
+}
+.fe-anchor {
+    background-image: url(dist/icons/anchor.svg);
+}
+.fe-aperture {
+    background-image: url(dist/icons/aperture.svg);
+}
+.fe-archive {
+    background-image: url(dist/icons/archive.svg);
+}
+.fe-arrow-down-circle {
+    background-image: url(dist/icons/arrow-down-circle.svg);
+}
+.fe-arrow-down-left {
+    background-image: url(dist/icons/arrow-down-left.svg);
+}
+.fe-arrow-down-right {
+    background-image: url(dist/icons/arrow-down-right.svg);
+}
+.fe-arrow-down {
+    background-image: url(dist/icons/arrow-down.svg);
+}
+.fe-arrow-left-circle {
+    background-image: url(dist/icons/arrow-left-circle.svg);
+}
+.fe-arrow-left {
+    background-image: url(dist/icons/arrow-left.svg);
+}
+.fe-arrow-right-circle {
+    background-image: url(dist/icons/arrow-right-circle.svg);
+}
+.fe-arrow-right {
+    background-image: url(dist/icons/arrow-right.svg);
+}
+.fe-arrow-up-circle {
+    background-image: url(dist/icons/arrow-up-circle.svg);
+}
+.fe-arrow-up-left {
+    background-image: url(dist/icons/arrow-up-left.svg);
+}
+.fe-arrow-up-right {
+    background-image: url(dist/icons/arrow-up-right.svg);
+}
+.fe-arrow-up {
+    background-image: url(dist/icons/arrow-up.svg);
+}
+.fe-at-sign {
+    background-image: url(dist/icons/at-sign.svg);
+}
+.fe-award {
+    background-image: url(dist/icons/award.svg);
+}
+.fe-bar-chart-2 {
+    background-image: url(dist/icons/bar-chart-2.svg);
+}
+.fe-bar-chart {
+    background-image: url(dist/icons/bar-chart.svg);
+}
+.fe-battery-charging {
+    background-image: url(dist/icons/battery-charging.svg);
+}
+.fe-battery {
+    background-image: url(dist/icons/battery.svg);
+}
+.fe-bell-off {
+    background-image: url(dist/icons/bell-off.svg);
+}
+.fe-bell {
+    background-image: url(dist/icons/bell.svg);
+}
+.fe-bluetooth {
+    background-image: url(dist/icons/bluetooth.svg);
+}
+.fe-bold {
+    background-image: url(dist/icons/bold.svg);
+}
+.fe-book-open {
+    background-image: url(dist/icons/book-open.svg);
+}
+.fe-book {
+    background-image: url(dist/icons/book.svg);
+}
+.fe-bookmark {
+    background-image: url(dist/icons/bookmark.svg);
+}
+.fe-box {
+    background-image: url(dist/icons/box.svg);
+}
+.fe-briefcase {
+    background-image: url(dist/icons/briefcase.svg);
+}
+.fe-calendar {
+    background-image: url(dist/icons/calendar.svg);
+}
+.fe-camera-off {
+    background-image: url(dist/icons/camera-off.svg);
+}
+.fe-camera {
+    background-image: url(dist/icons/camera.svg);
+}
+.fe-cast {
+    background-image: url(dist/icons/cast.svg);
+}
+.fe-check-circle {
+    background-image: url(dist/icons/check-circle.svg);
+}
+.fe-check-square {
+    background-image: url(dist/icons/check-square.svg);
+}
+.fe-check {
+    background-image: url(dist/icons/check.svg);
+}
+.fe-chevron-down {
+    background-image: url(dist/icons/chevron-down.svg);
+}
+.fe-chevron-left {
+    background-image: url(dist/icons/chevron-left.svg);
+}
+.fe-chevron-right {
+    background-image: url(dist/icons/chevron-right.svg);
+}
+.fe-chevron-up {
+    background-image: url(dist/icons/chevron-up.svg);
+}
+.fe-chevrons-down {
+    background-image: url(dist/icons/chevrons-down.svg);
+}
+.fe-chevrons-left {
+    background-image: url(dist/icons/chevrons-left.svg);
+}
+.fe-chevrons-right {
+    background-image: url(dist/icons/chevrons-right.svg);
+}
+.fe-chevrons-up {
+    background-image: url(dist/icons/chevrons-up.svg);
+}
+.fe-chrome {
+    background-image: url(dist/icons/chrome.svg);
+}
+.fe-circle {
+    background-image: url(dist/icons/circle.svg);
+}
+.fe-clipboard {
+    background-image: url(dist/icons/clipboard.svg);
+}
+.fe-clock {
+    background-image: url(dist/icons/clock.svg);
+}
+.fe-cloud-drizzle {
+    background-image: url(dist/icons/cloud-drizzle.svg);
+}
+.fe-cloud-lightning {
+    background-image: url(dist/icons/cloud-lightning.svg);
+}
+.fe-cloud-off {
+    background-image: url(dist/icons/cloud-off.svg);
+}
+.fe-cloud-rain {
+    background-image: url(dist/icons/cloud-rain.svg);
+}
+.fe-cloud-snow {
+    background-image: url(dist/icons/cloud-snow.svg);
+}
+.fe-cloud {
+    background-image: url(dist/icons/cloud.svg);
+}
+.fe-code {
+    background-image: url(dist/icons/code.svg);
+}
+.fe-codepen {
+    background-image: url(dist/icons/codepen.svg);
+}
+.fe-codesandbox {
+    background-image: url(dist/icons/codesandbox.svg);
+}
+.fe-coffee {
+    background-image: url(dist/icons/coffee.svg);
+}
+.fe-columns {
+    background-image: url(dist/icons/columns.svg);
+}
+.fe-command {
+    background-image: url(dist/icons/command.svg);
+}
+.fe-compass {
+    background-image: url(dist/icons/compass.svg);
+}
+.fe-copy {
+    background-image: url(dist/icons/copy.svg);
+}
+.fe-corner-down-left {
+    background-image: url(dist/icons/corner-down-left.svg);
+}
+.fe-corner-down-right {
+    background-image: url(dist/icons/corner-down-right.svg);
+}
+.fe-corner-left-down {
+    background-image: url(dist/icons/corner-left-down.svg);
+}
+.fe-corner-left-up {
+    background-image: url(dist/icons/corner-left-up.svg);
+}
+.fe-corner-right-down {
+    background-image: url(dist/icons/corner-right-down.svg);
+}
+.fe-corner-right-up {
+    background-image: url(dist/icons/corner-right-up.svg);
+}
+.fe-corner-up-left {
+    background-image: url(dist/icons/corner-up-left.svg);
+}
+.fe-corner-up-right {
+    background-image: url(dist/icons/corner-up-right.svg);
+}
+.fe-cpu {
+    background-image: url(dist/icons/cpu.svg);
+}
+.fe-credit-card {
+    background-image: url(dist/icons/credit-card.svg);
+}
+.fe-crop {
+    background-image: url(dist/icons/crop.svg);
+}
+.fe-crosshair {
+    background-image: url(dist/icons/crosshair.svg);
+}
+.fe-database {
+    background-image: url(dist/icons/database.svg);
+}
+.fe-delete {
+    background-image: url(dist/icons/delete.svg);
+}
+.fe-disc {
+    background-image: url(dist/icons/disc.svg);
+}
+.fe-divide-circle {
+    background-image: url(dist/icons/divide-circle.svg);
+}
+.fe-divide-square {
+    background-image: url(dist/icons/divide-square.svg);
+}
+.fe-divide {
+    background-image: url(dist/icons/divide.svg);
+}
+.fe-dollar-sign {
+    background-image: url(dist/icons/dollar-sign.svg);
+}
+.fe-download-cloud {
+    background-image: url(dist/icons/download-cloud.svg);
+}
+.fe-download {
+    background-image: url(dist/icons/download.svg);
+}
+.fe-dribbble {
+    background-image: url(dist/icons/dribbble.svg);
+}
+.fe-droplet {
+    background-image: url(dist/icons/droplet.svg);
+}
+.fe-edit-2 {
+    background-image: url(dist/icons/edit-2.svg);
+}
+.fe-edit-3 {
+    background-image: url(dist/icons/edit-3.svg);
+}
+.fe-edit {
+    background-image: url(dist/icons/edit.svg);
+}
+.fe-external-link {
+    background-image: url(dist/icons/external-link.svg);
+}
+.fe-eye-off {
+    background-image: url(dist/icons/eye-off.svg);
+}
+.fe-eye {
+    background-image: url(dist/icons/eye.svg);
+}
+.fe-facebook {
+    background-image: url(dist/icons/facebook.svg);
+}
+.fe-fast-forward {
+    background-image: url(dist/icons/fast-forward.svg);
+}
+.fe-feather {
+    background-image: url(dist/icons/feather.svg);
+}
+.fe-figma {
+    background-image: url(dist/icons/figma.svg);
+}
+.fe-file-minus {
+    background-image: url(dist/icons/file-minus.svg);
+}
+.fe-file-plus {
+    background-image: url(dist/icons/file-plus.svg);
+}
+.fe-file-text {
+    background-image: url(dist/icons/file-text.svg);
+}
+.fe-file {
+    background-image: url(dist/icons/file.svg);
+}
+.fe-film {
+    background-image: url(dist/icons/film.svg);
+}
+.fe-filter {
+    background-image: url(dist/icons/filter.svg);
+}
+.fe-flag {
+    background-image: url(dist/icons/flag.svg);
+}
+.fe-folder-minus {
+    background-image: url(dist/icons/folder-minus.svg);
+}
+.fe-folder-plus {
+    background-image: url(dist/icons/folder-plus.svg);
+}
+.fe-folder {
+    background-image: url(dist/icons/folder.svg);
+}
+.fe-framer {
+    background-image: url(dist/icons/framer.svg);
+}
+.fe-frown {
+    background-image: url(dist/icons/frown.svg);
+}
+.fe-gift {
+    background-image: url(dist/icons/gift.svg);
+}
+.fe-git-branch {
+    background-image: url(dist/icons/git-branch.svg);
+}
+.fe-git-commit {
+    background-image: url(dist/icons/git-commit.svg);
+}
+.fe-git-merge {
+    background-image: url(dist/icons/git-merge.svg);
+}
+.fe-git-pull-request {
+    background-image: url(dist/icons/git-pull-request.svg);
+}
+.fe-github {
+    background-image: url(dist/icons/github.svg);
+}
+.fe-gitlab {
+    background-image: url(dist/icons/gitlab.svg);
+}
+.fe-globe {
+    background-image: url(dist/icons/globe.svg);
+}
+.fe-grid {
+    background-image: url(dist/icons/grid.svg);
+}
+.fe-hard-drive {
+    background-image: url(dist/icons/hard-drive.svg);
+}
+.fe-hash {
+    background-image: url(dist/icons/hash.svg);
+}
+.fe-headphones {
+    background-image: url(dist/icons/headphones.svg);
+}
+.fe-heart {
+    background-image: url(dist/icons/heart.svg);
+}
+.fe-help-circle {
+    background-image: url(dist/icons/help-circle.svg);
+}
+.fe-hexagon {
+    background-image: url(dist/icons/hexagon.svg);
+}
+.fe-home {
+    background-image: url(dist/icons/home.svg);
+}
+.fe-image {
+    background-image: url(dist/icons/image.svg);
+}
+.fe-inbox {
+    background-image: url(dist/icons/inbox.svg);
+}
+.fe-info {
+    background-image: url(dist/icons/info.svg);
+}
+.fe-instagram {
+    background-image: url(dist/icons/instagram.svg);
+}
+.fe-italic {
+    background-image: url(dist/icons/italic.svg);
+}
+.fe-key {
+    background-image: url(dist/icons/key.svg);
+}
+.fe-layers {
+    background-image: url(dist/icons/layers.svg);
+}
+.fe-layout {
+    background-image: url(dist/icons/layout.svg);
+}
+.fe-life-buoy {
+    background-image: url(dist/icons/life-buoy.svg);
+}
+.fe-link-2 {
+    background-image: url(dist/icons/link-2.svg);
+}
+.fe-link {
+    background-image: url(dist/icons/link.svg);
+}
+.fe-linkedin {
+    background-image: url(dist/icons/linkedin.svg);
+}
+.fe-list {
+    background-image: url(dist/icons/list.svg);
+}
+.fe-loader {
+    background-image: url(dist/icons/loader.svg);
+}
+.fe-lock {
+    background-image: url(dist/icons/lock.svg);
+}
+.fe-log-in {
+    background-image: url(dist/icons/log-in.svg);
+}
+.fe-log-out {
+    background-image: url(dist/icons/log-out.svg);
+}
+.fe-mail {
+    background-image: url(dist/icons/mail.svg);
+}
+.fe-map-pin {
+    background-image: url(dist/icons/map-pin.svg);
+}
+.fe-map {
+    background-image: url(dist/icons/map.svg);
+}
+.fe-maximize-2 {
+    background-image: url(dist/icons/maximize-2.svg);
+}
+.fe-maximize {
+    background-image: url(dist/icons/maximize.svg);
+}
+.fe-meh {
+    background-image: url(dist/icons/meh.svg);
+}
+.fe-menu {
+    background-image: url(dist/icons/menu.svg);
+}
+.fe-message-circle {
+    background-image: url(dist/icons/message-circle.svg);
+}
+.fe-message-square {
+    background-image: url(dist/icons/message-square.svg);
+}
+.fe-mic-off {
+    background-image: url(dist/icons/mic-off.svg);
+}
+.fe-mic {
+    background-image: url(dist/icons/mic.svg);
+}
+.fe-minimize-2 {
+    background-image: url(dist/icons/minimize-2.svg);
+}
+.fe-minimize {
+    background-image: url(dist/icons/minimize.svg);
+}
+.fe-minus-circle {
+    background-image: url(dist/icons/minus-circle.svg);
+}
+.fe-minus-square {
+    background-image: url(dist/icons/minus-square.svg);
+}
+.fe-minus {
+    background-image: url(dist/icons/minus.svg);
+}
+.fe-monitor {
+    background-image: url(dist/icons/monitor.svg);
+}
+.fe-moon {
+    background-image: url(dist/icons/moon.svg);
+}
+.fe-more-horizontal {
+    background-image: url(dist/icons/more-horizontal.svg);
+}
+.fe-more-vertical {
+    background-image: url(dist/icons/more-vertical.svg);
+}
+.fe-mouse-pointer {
+    background-image: url(dist/icons/mouse-pointer.svg);
+}
+.fe-move {
+    background-image: url(dist/icons/move.svg);
+}
+.fe-music {
+    background-image: url(dist/icons/music.svg);
+}
+.fe-navigation-2 {
+    background-image: url(dist/icons/navigation-2.svg);
+}
+.fe-navigation {
+    background-image: url(dist/icons/navigation.svg);
+}
+.fe-octagon {
+    background-image: url(dist/icons/octagon.svg);
+}
+.fe-package {
+    background-image: url(dist/icons/package.svg);
+}
+.fe-paperclip {
+    background-image: url(dist/icons/paperclip.svg);
+}
+.fe-pause-circle {
+    background-image: url(dist/icons/pause-circle.svg);
+}
+.fe-pause {
+    background-image: url(dist/icons/pause.svg);
+}
+.fe-pen-tool {
+    background-image: url(dist/icons/pen-tool.svg);
+}
+.fe-percent {
+    background-image: url(dist/icons/percent.svg);
+}
+.fe-phone-call {
+    background-image: url(dist/icons/phone-call.svg);
+}
+.fe-phone-forwarded {
+    background-image: url(dist/icons/phone-forwarded.svg);
+}
+.fe-phone-incoming {
+    background-image: url(dist/icons/phone-incoming.svg);
+}
+.fe-phone-missed {
+    background-image: url(dist/icons/phone-missed.svg);
+}
+.fe-phone-off {
+    background-image: url(dist/icons/phone-off.svg);
+}
+.fe-phone-outgoing {
+    background-image: url(dist/icons/phone-outgoing.svg);
+}
+.fe-phone {
+    background-image: url(dist/icons/phone.svg);
+}
+.fe-pie-chart {
+    background-image: url(dist/icons/pie-chart.svg);
+}
+.fe-play-circle {
+    background-image: url(dist/icons/play-circle.svg);
+}
+.fe-play {
+    background-image: url(dist/icons/play.svg);
+}
+.fe-plus-circle {
+    background-image: url(dist/icons/plus-circle.svg);
+}
+.fe-plus-square {
+    background-image: url(dist/icons/plus-square.svg);
+}
+.fe-plus {
+    background-image: url(dist/icons/plus.svg);
+}
+.fe-pocket {
+    background-image: url(dist/icons/pocket.svg);
+}
+.fe-power {
+    background-image: url(dist/icons/power.svg);
+}
+.fe-printer {
+    background-image: url(dist/icons/printer.svg);
+}
+.fe-radio {
+    background-image: url(dist/icons/radio.svg);
+}
+.fe-refresh-ccw {
+    background-image: url(dist/icons/refresh-ccw.svg);
+}
+.fe-refresh-cw {
+    background-image: url(dist/icons/refresh-cw.svg);
+}
+.fe-repeat {
+    background-image: url(dist/icons/repeat.svg);
+}
+.fe-rewind {
+    background-image: url(dist/icons/rewind.svg);
+}
+.fe-rotate-ccw {
+    background-image: url(dist/icons/rotate-ccw.svg);
+}
+.fe-rotate-cw {
+    background-image: url(dist/icons/rotate-cw.svg);
+}
+.fe-rss {
+    background-image: url(dist/icons/rss.svg);
+}
+.fe-save {
+    background-image: url(dist/icons/save.svg);
+}
+.fe-scissors {
+    background-image: url(dist/icons/scissors.svg);
+}
+.fe-search {
+    background-image: url(dist/icons/search.svg);
+}
+.fe-send {
+    background-image: url(dist/icons/send.svg);
+}
+.fe-server {
+    background-image: url(dist/icons/server.svg);
+}
+.fe-settings {
+    background-image: url(dist/icons/settings.svg);
+}
+.fe-share-2 {
+    background-image: url(dist/icons/share-2.svg);
+}
+.fe-share {
+    background-image: url(dist/icons/share.svg);
+}
+.fe-shield-off {
+    background-image: url(dist/icons/shield-off.svg);
+}
+.fe-shield {
+    background-image: url(dist/icons/shield.svg);
+}
+.fe-shopping-bag {
+    background-image: url(dist/icons/shopping-bag.svg);
+}
+.fe-shopping-cart {
+    background-image: url(dist/icons/shopping-cart.svg);
+}
+.fe-shuffle {
+    background-image: url(dist/icons/shuffle.svg);
+}
+.fe-sidebar {
+    background-image: url(dist/icons/sidebar.svg);
+}
+.fe-skip-back {
+    background-image: url(dist/icons/skip-back.svg);
+}
+.fe-skip-forward {
+    background-image: url(dist/icons/skip-forward.svg);
+}
+.fe-slack {
+    background-image: url(dist/icons/slack.svg);
+}
+.fe-slash {
+    background-image: url(dist/icons/slash.svg);
+}
+.fe-sliders {
+    background-image: url(dist/icons/sliders.svg);
+}
+.fe-smartphone {
+    background-image: url(dist/icons/smartphone.svg);
+}
+.fe-smile {
+    background-image: url(dist/icons/smile.svg);
+}
+.fe-speaker {
+    background-image: url(dist/icons/speaker.svg);
+}
+.fe-square {
+    background-image: url(dist/icons/square.svg);
+}
+.fe-star {
+    background-image: url(dist/icons/star.svg);
+}
+.fe-stop-circle {
+    background-image: url(dist/icons/stop-circle.svg);
+}
+.fe-sun {
+    background-image: url(dist/icons/sun.svg);
+}
+.fe-sunrise {
+    background-image: url(dist/icons/sunrise.svg);
+}
+.fe-sunset {
+    background-image: url(dist/icons/sunset.svg);
+}
+.fe-table {
+    background-image: url(dist/icons/table.svg);
+}
+.fe-tablet {
+    background-image: url(dist/icons/tablet.svg);
+}
+.fe-tag {
+    background-image: url(dist/icons/tag.svg);
+}
+.fe-target {
+    background-image: url(dist/icons/target.svg);
+}
+.fe-terminal {
+    background-image: url(dist/icons/terminal.svg);
+}
+.fe-thermometer {
+    background-image: url(dist/icons/thermometer.svg);
+}
+.fe-thumbs-down {
+    background-image: url(dist/icons/thumbs-down.svg);
+}
+.fe-thumbs-up {
+    background-image: url(dist/icons/thumbs-up.svg);
+}
+.fe-toggle-left {
+    background-image: url(dist/icons/toggle-left.svg);
+}
+.fe-toggle-right {
+    background-image: url(dist/icons/toggle-right.svg);
+}
+.fe-tool {
+    background-image: url(dist/icons/tool.svg);
+}
+.fe-trash-2 {
+    background-image: url(dist/icons/trash-2.svg);
+}
+.fe-trash {
+    background-image: url(dist/icons/trash.svg);
+}
+.fe-trello {
+    background-image: url(dist/icons/trello.svg);
+}
+.fe-trending-down {
+    background-image: url(dist/icons/trending-down.svg);
+}
+.fe-trending-up {
+    background-image: url(dist/icons/trending-up.svg);
+}
+.fe-triangle {
+    background-image: url(dist/icons/triangle.svg);
+}
+.fe-truck {
+    background-image: url(dist/icons/truck.svg);
+}
+.fe-tv {
+    background-image: url(dist/icons/tv.svg);
+}
+.fe-twitch {
+    background-image: url(dist/icons/twitch.svg);
+}
+.fe-twitter {
+    background-image: url(dist/icons/twitter.svg);
+}
+.fe-type {
+    background-image: url(dist/icons/type.svg);
+}
+.fe-umbrella {
+    background-image: url(dist/icons/umbrella.svg);
+}
+.fe-underline {
+    background-image: url(dist/icons/underline.svg);
+}
+.fe-unlock {
+    background-image: url(dist/icons/unlock.svg);
+}
+.fe-upload-cloud {
+    background-image: url(dist/icons/upload-cloud.svg);
+}
+.fe-upload {
+    background-image: url(dist/icons/upload.svg);
+}
+.fe-user-check {
+    background-image: url(dist/icons/user-check.svg);
+}
+.fe-user-minus {
+    background-image: url(dist/icons/user-minus.svg);
+}
+.fe-user-plus {
+    background-image: url(dist/icons/user-plus.svg);
+}
+.fe-user-x {
+    background-image: url(dist/icons/user-x.svg);
+}
+.fe-user {
+    background-image: url(dist/icons/user.svg);
+}
+.fe-users {
+    background-image: url(dist/icons/users.svg);
+}
+.fe-video-off {
+    background-image: url(dist/icons/video-off.svg);
+}
+.fe-video {
+    background-image: url(dist/icons/video.svg);
+}
+.fe-voicemail {
+    background-image: url(dist/icons/voicemail.svg);
+}
+.fe-volume-1 {
+    background-image: url(dist/icons/volume-1.svg);
+}
+.fe-volume-2 {
+    background-image: url(dist/icons/volume-2.svg);
+}
+.fe-volume-x {
+    background-image: url(dist/icons/volume-x.svg);
+}
+.fe-volume {
+    background-image: url(dist/icons/volume.svg);
+}
+.fe-watch {
+    background-image: url(dist/icons/watch.svg);
+}
+.fe-wifi-off {
+    background-image: url(dist/icons/wifi-off.svg);
+}
+.fe-wifi {
+    background-image: url(dist/icons/wifi.svg);
+}
+.fe-wind {
+    background-image: url(dist/icons/wind.svg);
+}
+.fe-x-circle {
+    background-image: url(dist/icons/x-circle.svg);
+}
+.fe-x-octagon {
+    background-image: url(dist/icons/x-octagon.svg);
+}
+.fe-x-square {
+    background-image: url(dist/icons/x-square.svg);
+}
+.fe-x {
+    background-image: url(dist/icons/x.svg);
+}
+.fe-youtube {
+    background-image: url(dist/icons/youtube.svg);
+}
+.fe-zap-off {
+    background-image: url(dist/icons/zap-off.svg);
+}
+.fe-zap {
+    background-image: url(dist/icons/zap.svg);
+}
+.fe-zoom-in {
+    background-image: url(dist/icons/zoom-in.svg);
+}
+.fe-zoom-out {
+    background-image: url(dist/icons/zoom-out.svg);
+}
