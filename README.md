@@ -1,17 +1,23 @@
 # feather-icons-nojs
 
-This Git repository hosts a collection of icons in CSS format, designed to be used without JavaScript. The icons in this pack were collected from [Feather Icons](https://feathericons.com/), an open-source icon pack.
+Welcome to the repository housing a comprehensive collection of icons in SVG format, meticulously tailored for seamless integration without reliance on JavaScript, bundled conveniently within a single CSS file. The icons in this pack were collected from [Feather Icons](https://feathericons.com/), an open-source icon pack.
 
 ## Usage
 
-To use an icon, simply add the corresponding CSS class to an HTML element, following this format:
+To integrate these icons into your project, simply link the provided CSS file within the `<head>` section of your HTML:
+
+```html
+<link rel="stylesheet" href="feather-icons.css">
+```
+
+Once linked, you can effortlessly utilize any icon by applying the appropriate class. Each icon is represented by the class `.fe`, followed by the specific icon's name using the format `.fe-icon-name`. Here's an example of how to incorporate an icon into your project:
 
 ```html
 <i class="fe fe-icon-name"></i>
 ```
 
-## Build
+## Customization
 
-You can also place your own icons into the `./dist/icons` folder or remove some icons. Afterward, rebuild the CSS pack using the `build.js` file and Node.js.
+Tailor this icon pack to your project's requirements by either adding your own icons to the `./dist/icons` directory or removing existing ones. Afterward, regenerate the CSS pack using the provided `build.js` script in conjunction with Node.js.
 
-Feel free to explore and adapt this icon pack to suit your project's needs!
+Feel empowered to explore and adapt this versatile icon pack to perfectly complement your project!
